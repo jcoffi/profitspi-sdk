@@ -1,0 +1,50 @@
+# Strategytestresults
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**first_test_date** | **datetime** |  | [optional] 
+**last_test_date** | **datetime** |  | [optional] 
+**total_profit** | **float** |  | [optional] 
+**open_profit** | **float** |  | [optional] 
+**return_on_equity_pct** | **float** |  | [optional] 
+**annualized_return_pct** | **float** |  | [optional] 
+**max_drawdown_pct** | **float** |  | [optional] 
+**sharpe_ratio** | **float** |  | [optional] 
+**total_closed_trades** | **int** |  | [optional] 
+**number_of_winner_trades** | **int** |  | [optional] 
+**number_of_loser_trades** | **int** |  | [optional] 
+**number_of_even_trades** | **int** |  | [optional] 
+**percentage_of_winner_trades** | **float** |  | [optional] 
+**winners_profit** | **float** |  | [optional] 
+**losers_profit** | **float** |  | [optional] 
+**winners_to_losers_profit_ratio** | **float** |  | [optional] 
+**largest_winner_profit** | **float** |  | [optional] 
+**largest_loser_profit** | **float** |  | [optional] 
+**average_winners_profit** | **float** |  | [optional] 
+**average_losers_profit** | **float** |  | [optional] 
+**avg_winners_to_avg_losers_profit_ratio** | **float** |  | [optional] 
+**longest_winner_days** | **int** |  | [optional] 
+**longest_loser_days** | **int** |  | [optional] 
+**total_winner_days** | **int** |  | [optional] 
+**total_loser_days** | **int** |  | [optional] 
+**average_winner_days** | **float** |  | [optional] 
+**average_loser_days** | **float** |  | [optional] 
+**most_consecutive_winners** | **int** |  | [optional] 
+**most_consecutive_losers** | **int** |  | [optional] 
+**average_total_return_pct** | **float** |  | [optional] 
+**average_trade_days** | **float** |  | [optional] 
+**average_total_return_pct_per_day** | **float** |  | [optional] 
+**average_mae_in_atrs** | **float** |  | [optional] 
+**average_winners_mae_in_atrs** | **float** |  | [optional] 
+**average_losers_mae_in_atrs** | **float** |  | [optional] 
+**average_mfe_in_atrs** | **float** |  | [optional] 
+**average_winners_mfe_in_atrs** | **float** |  | [optional] 
+**average_losers_mfe_in_atrs** | **float** |  | [optional] 
+**avg_mae_to_avg_mfe_in_atrs_ratio** | **float** |  | [optional] 
+**average_winners_return_pct** | **float** |  | [optional] 
+**average_losers_return_pct** | **float** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
